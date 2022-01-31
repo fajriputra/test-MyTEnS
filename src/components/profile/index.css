@@ -1,0 +1,65 @@
+.profile {
+  max-width: 296px;
+  height: 100%;
+  border: 1px solid #768390;
+  padding: 20px;
+  border-radius: 4px;
+  margin-right: 30px;
+}
+
+.profile-image {
+  width: 250px;
+  height: 250px;
+  margin: auto;
+}
+
+.profile-image > img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 100%;
+}
+
+.profile-name {
+  font-size: 26px;
+  color: #adbac7;
+}
+
+.profile-username {
+  font-size: 20px;
+  color: #768390;
+}
+
+.btn-follow {
+  width: 100%;
+  display: block;
+  padding: 5px 16px;
+  border: none;
+  outline: none;
+  background-color: #a5a5a5;
+  color: #ffffff;
+  font-size: 16px;
+
+  border-radius: 4px;
+}
+
+.info-follower {
+  display: flex;
+  align-items: center;
+  margin: 16px auto;
+  color: #ffffff;
+}
+
+.followers {
+  margin-right: 16px;
+}
+
+.span-follow {
+  font-size: 14px;
+  color: #768390;
+}
+
+.location {
+  font-size: 14px;
+  color: #adbac7;
+}

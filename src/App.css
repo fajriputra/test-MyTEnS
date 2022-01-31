@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  background-color: rgba(19, 19, 19, 0.897);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.app-wrapper {
+  display: flex;
+  align-items: center;
+}
