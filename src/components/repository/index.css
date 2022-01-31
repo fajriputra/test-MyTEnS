@@ -1,0 +1,41 @@
+.repository {
+  width: 600px;
+  border: 1px solid #768390;
+  padding: 20px;
+  border-radius: 4px;
+}
+
+.repository-list {
+  border-radius: 4px;
+}
+
+.repository-list-link {
+  margin-bottom: 8px;
+}
+
+.repository-list-link > a {
+  font-size: 20px;
+  color: #539bf5;
+  font-weight: 700;
+  text-decoration: none;
+  margin-right: 8px;
+}
+
+.repository-list-link > .visibility {
+  padding: 3px 7px;
+  border: 1px solid #768390;
+  border-radius: 20px;
+  font-size: 14px;
+  color: #768390;
+}
+
+.language {
+  padding: 8px 0;
+  color: #768390;
+  font-size: 14px;
+}
+
+.line-break {
+  border: 1px solid #768390;
+  margin: 24px auto;
+}
